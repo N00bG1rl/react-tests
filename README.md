@@ -1,3 +1,16 @@
+# React tests with Jest
+
+Learning testing in React.
+
+# Created at
+
+February 9, 2022
+
+# Project is created with
+
+- React
+- Jest
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
